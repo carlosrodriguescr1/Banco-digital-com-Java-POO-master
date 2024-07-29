@@ -38,19 +38,4 @@ Capacidade de um objeto ser referenciado de várias formas, ou seja, tratar obje
 
 ---  
 
-## ✍️Autora  
-Carla Edila Silveira  
-Contato: rosa.carla@pucpr.edu.br  
 
----  
-
-## 🔗Links úteis  
-
-[Aumente sua Produtividade com Spring Boot e Lombok - curso DIO](https://web.dio.me/course/aumente-sua-produtividade-com-spring-boot-e-lombok/learning/ed9e3e6b-49ba-440b-a4e2-cd4ac21912d7/?back=/browse)  
-[Como usar o Lombok em projetos Java](https://receitasdecodigo.com.br/java/como-usar-o-lombok-em-projetos-java)  
-[Desbravando Java e Orientação a Objetos: Um guia para o iniciante da linguagem - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java)  
-[Java e Orientação a Objetos - Apostila Caleum](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)  
-[Lesson: Object-Oriented Programming Concepts - Oracle](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)  
-[Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)  
-
----  
